@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.t {
+    margin: auto;
+    padding: 3px;
+    border: 1px solid black;
+    border-radius: 2px;
+}
+table th {
+    width: 150px;
+    height: 30px;
+    border: 2px solid black;
+    font-size: 20px;
+}
+table td {
+    width: 150px;
+    height: 30px;
+    padding: 3px;
+    border: 1px solid black;
+    text-align: center;
+    font-size: 18px;
+}
+.wolf {
+    margin: auto;
+    text-align: right;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.wolf h3 {
+    font-size: 23px;
+    color: black;
+    margin-top: 30px;
+    margin-bottom: 5px;
+}
+.wolf ol {
+    margin-right: 30px;
+    color: black;
+}
+.wolf p {
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+li span {
+    font-size: 23px;
+    padding: 5px;
+}
+li {
+    margin: 5px;
+    padding: 2px;
+    font-size: 18px;
+    color: black;
+}
+.tol {
+    color: black;
+    font-size: 18px;
+    margin: 5px 10% 10px 10%;
+    text-align: right;
+}
+.oll {
+    font-size: 23px;
+}
+hr {
+    height: 3px;
+    color: black;
+}
+.wolf11 {
+    margin: 10px 10% 10px 10%;
+    font-size: 20px;
+    padding: 3px;
+}
+.title {
+    text-align: center;
+    margin: 10px;
+    padding: 5px;
+}
+.title p {
+    font-size: 20px;
+}
+.title h2 {
+    font-size: 32px;
+}
